@@ -1,0 +1,8 @@
+Reverse a linked list iteratively
+Reverse a linked list recursively
+Print a linked list reverse iteratively
+Print a linked list reverse recursively
+Insert into a linked list at nth position
+Insert into the beginning of a linked list
+Insert into the end of a linked list
+Delete element from linked list at nth position
